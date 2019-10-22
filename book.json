@@ -28,5 +28,11 @@
         "back-to-top-button",
         "theme-comscore",
         "emphasize"
-    ]
+    ],
+    "pluginsConfig": {
+        "localized-footer": {
+            "hline": true,           
+            "filename": "./footer.md" 
+        }
+    }
 }
